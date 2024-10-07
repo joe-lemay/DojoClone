@@ -40,9 +40,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
-<p align="center"> Coding Dojo Clone is a clone application duplicating the Coding Dojo Website which is the learning platform for the Coding Dojo bootcamp. It incorporates full-stack web development using MERN (MongoDB, Express, React.js, and Node.js). Implemented object-oriented design with mongoose to create and store stack information in MongoDB and employed RESTful backend routing with express server. Created dark mode and light mode features using Javascript and CSS.
- </p>
-
+<p align="center"> Coding Dojo Clone is a clone application duplicating the Coding Dojo Learning Platform. A full-stack application using MERN (MongoDB, Express, React.js, and Node.js). Implemented object-oriented design with mongoose to create and store stack information in MongoDB and employed RESTful backend routing with express server. Has dark mode!
+</p>
+<img src="./imgs/dojo1.PNG"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
