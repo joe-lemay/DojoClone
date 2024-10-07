@@ -1,0 +1,67 @@
+.sub {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 0 auto;
+    z-index: 100;
+    padding: 30px 0 30px;
+    width: 1280px;
+    
+}
+
+.sub__left {
+    display: flex !important;
+    height: 40px !important;
+    padding: 10px !important;
+    align-items: center !important;
+    justify-content: space-between;
+    margin-right: 60px;
+
+}
+
+.sub__left>p {
+    display: flex !important;
+    margin: 10px !important;
+    font-size: 16px;
+
+}
+
+.sub__left>.MuiSvgIcon-root {
+    color: #2C6BFF;
+    box-shadow: var(--shadowSmollIcons);
+    border-radius: 10px;
+}
+
+.sub__right>.MuiSvgIcon-root {
+    color: #2C6BFF;
+    box-shadow: var(--shadowSmollIcons);
+    border-radius: 40%;
+    transform: scale(1.2);
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
+
+.toggle>.MuiSvgIcon-root {
+    transform: scale(2.8);
+    color: #2C6BFF;
+    margin-left: 20px;
+}
+
+
+
+.sub__right {
+    margin: 10px !important;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    /* flex: 1 10px; */
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 60px;
+
+}
+
+.sub__right>toggle_icon {
+    height: 200px;
+}
